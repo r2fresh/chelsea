@@ -1,24 +1,30 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://r2fresh.github.io/chelsea/): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
-[![Static Site CI](https://github.com/upptime/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Graphs CI](https://github.com/upptime/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Response Time CI](https://github.com/upptime/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.comupptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Summary CI](https://github.com/upptime/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
-[![Uptime CI](https://github.com/upptime/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Static Site CI](https://github.com/r2fresh/chelsea/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Graphs CI](https://github.com/r2fresh/chelsea/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Response Time CI](https://github.com/r2fresh/chelsea/workflows/Response%20Time%20CI/badge.svg)](https://github.comupptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Summary CI](https://github.com/r2fresh/chelsea/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/r2fresh/chelsea/issues) as incident reports, [Actions](https://github.com/r2fresh/chelsea/actions) as uptime monitors, and [Pages](https://r2fresh.github.io/chelsea/) for the status page.
+[![Uptime CI](https://github.com/r2fresh/chelsea/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/upptime/upptime/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 85ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-| [Wikipedia](https://en.wikipedia.org) | 🟩 Up | [wikipedia.yml](https://github.com/upptime/upptime/commits/master/history/wikipedia.yml) | <img alt="Response time graph" src="./graphs/wikipedia.png" height="20"> 174ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fwikipedia%2Fuptime.json)
-| [Internet Archive](https://archive.org) | 🟩 Up | [internet-archive.yml](https://github.com/upptime/upptime/commits/master/history/internet-archive.yml) | <img alt="Response time graph" src="./graphs/internet-archive.png" height="20"> 457ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Finternet-archive%2Fuptime.json)
-| [Hacker News](https://news.ycombinator.com) | 🟩 Up | [hacker-news.yml](https://github.com/upptime/upptime/commits/master/history/hacker-news.yml) | <img alt="Response time graph" src="./graphs/hacker-news.png" height="20"> 322ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fhacker-news%2Fuptime.json)
-| [Broken Site](https://thissitedoesnotexist.com) | 🟥 Down | [broken-site.yml](https://github.com/upptime/upptime/commits/master/history/broken-site.yml) | <img alt="Response time graph" src="./graphs/broken-site.png" height="20"> 0ms | ![Uptime 0.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fbroken-site%2Fuptime.json)
-| Secret Site | 🟩 Up | [secret-site.yml](https://github.com/upptime/upptime/commits/master/history/secret-site.yml) | <img alt="Response time graph" src="./graphs/secret-site.png" height="20"> 52ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fsecret-site%2Fuptime.json)
+| [Chelsea](http://chelsea.kt.co.kr) | 🟩 Up | [chelsea.yml](https://github.com/r2fresh/chelsea/commits/master/history/chelsea.yml) | <img alt="Response time graph" src="./graphs/chelsea.png" height="20"> 646ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fchelsea%2Fuptime.json)
+| [KTDN](http://ktdn.chelsea.kt.co.kr) | 🟩 Up | [ktdn.yml](https://github.com/r2fresh/chelsea/commits/master/history/ktdn.yml) | <img alt="Response time graph" src="./graphs/ktdn.png" height="20"> 650ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fktdn%2Fuptime.json)
+| [Gitlab](http://scm.chelsea.kt.co.kr) | 🟩 Up | [gitlab.yml](https://github.com/r2fresh/chelsea/commits/master/history/gitlab.yml) | <img alt="Response time graph" src="./graphs/gitlab.png" height="20"> 937ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fgitlab%2Fuptime.json)
+| [Orchestra](http://issue.chelsea.kt.co.kr) | 🟩 Up | [orchestra.yml](https://github.com/r2fresh/chelsea/commits/master/history/orchestra.yml) | <img alt="Response time graph" src="./graphs/orchestra.png" height="20"> 1562ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Forchestra%2Fuptime.json)
+| [Nexus](http://repo.chelsea.kt.co.kr) | 🟩 Up | [nexus.yml](https://github.com/r2fresh/chelsea/commits/master/history/nexus.yml) | <img alt="Response time graph" src="./graphs/nexus.png" height="20"> 489ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fnexus%2Fuptime.json)
+| [Jenkins](http://build.chelsea.kt.co.kr) | 🟩 Up | [jenkins.yml](https://github.com/r2fresh/chelsea/commits/master/history/jenkins.yml) | <img alt="Response time graph" src="./graphs/jenkins.png" height="20"> 523ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fjenkins%2Fuptime.json)
+| [Ansible](http://deploy.chelsea.kt.co.kr/#/login) | 🟩 Up | [ansible.yml](https://github.com/r2fresh/chelsea/commits/master/history/ansible.yml) | <img alt="Response time graph" src="./graphs/ansible.png" height="20"> 820ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fansible%2Fuptime.json)
+| [MatterMost](http://chat.chelsea.kt.co.kr/login) | 🟩 Up | [matter-most.yml](https://github.com/r2fresh/chelsea/commits/master/history/matter-most.yml) | <img alt="Response time graph" src="./graphs/matter-most.png" height="20"> 650ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fmatter-most%2Fuptime.json)
+| [Xwiki](http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/) | 🟩 Up | [xwiki.yml](https://github.com/r2fresh/chelsea/commits/master/history/xwiki.yml) | <img alt="Response time graph" src="./graphs/xwiki.png" height="20"> 999ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fxwiki%2Fuptime.json)
+| [SonarQube](http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F) | 🟩 Up | [sonar-qube.yml](https://github.com/r2fresh/chelsea/commits/master/history/sonar-qube.yml) | <img alt="Response time graph" src="./graphs/sonar-qube.png" height="20"> 490ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Fsonar-qube%2Fuptime.json)
+| [Reviewboard](http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F) | 🟩 Up | [reviewboard.yml](https://github.com/r2fresh/chelsea/commits/master/history/reviewboard.yml) | <img alt="Response time graph" src="./graphs/reviewboard.png" height="20"> 169ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fr2fresh%2Fchelsea%2Fmaster%2Fapi%2Freviewboard%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
@@ -342,7 +348,7 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [r2fresh](r2fresh78.github.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
