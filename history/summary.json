@@ -1,50 +1,90 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Chelsea",
+    "url": "http://chelsea.kt.co.kr",
+    "slug": "chelsea",
     "status": "up",
     "uptime": "100.00",
-    "time": 85
+    "time": 646
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "KTDN",
+    "url": "http://ktdn.chelsea.kt.co.kr",
+    "slug": "ktdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 171
+    "time": 650
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "Gitlab",
+    "url": "http://scm.chelsea.kt.co.kr",
+    "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 456
+    "time": 937
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Orchestra",
+    "url": "http://issue.chelsea.kt.co.kr",
+    "slug": "orchestra",
     "status": "up",
     "uptime": "100.00",
-    "time": 323
+    "time": 1562
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Nexus",
+    "url": "http://repo.chelsea.kt.co.kr",
+    "slug": "nexus",
     "status": "up",
     "uptime": "100.00",
-    "time": 53
+    "time": 489
+  },
+  {
+    "name": "Jenkins",
+    "url": "http://build.chelsea.kt.co.kr",
+    "slug": "jenkins",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 523
+  },
+  {
+    "name": "Ansible",
+    "url": "http://deploy.chelsea.kt.co.kr/#/login",
+    "slug": "ansible",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 820
+  },
+  {
+    "name": "MatterMost",
+    "url": "http://chat.chelsea.kt.co.kr/login",
+    "slug": "matter-most",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 650
+  },
+  {
+    "name": "Xwiki",
+    "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
+    "slug": "xwiki",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 999
+  },
+  {
+    "name": "SonarQube",
+    "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
+    "slug": "sonar-qube",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 490
+  },
+  {
+    "name": "Reviewboard",
+    "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
+    "slug": "reviewboard",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 169
   }
 ]
