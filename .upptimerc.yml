@@ -29,6 +29,10 @@ sites:
   - name: kt-chelsea
     url: https://kt-chelsea.github.io/
     
+notifications:
+  - type: slack
+    channel: C01DEA0PK0E
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
