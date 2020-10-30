@@ -26,6 +26,8 @@ sites:
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
   - name: Reviewboard
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
+  - name: kt-chelsea
+    url: https://kt-chelsea.github.io/
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
