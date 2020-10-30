@@ -1,7 +1,7 @@
-- url: https://www.kt.com/test
+- url: https://kt-chelsea.github.io/status
 - status: up
 - code: 200
-- responseTime: 689
-- lastUpdated: 2020-10-30T11:20:25.659Z
+- responseTime: 199
+- lastUpdated: 2020-10-30T11:21:57.733Z
 - startTime: 2020-10-30T00:56:25.876Z
 - generator: Upptime <https://github.com/upptime/upptime>
