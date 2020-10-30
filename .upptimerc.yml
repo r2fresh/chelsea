@@ -28,6 +28,8 @@ sites:
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
   - name: kt-chelsea
     url: https://kt-chelsea.github.io/
+  - name: kt-chelsea-test
+    url: https://kt-chelsea.github.io/chelsea
     
 notifications:
   - type: slack
