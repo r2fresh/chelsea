@@ -27,7 +27,7 @@ sites:
   - name: Reviewboard
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
   - name: kt-chelsea
-    url: https://https://map.gis.kt.com/
+    url: https://map.gis.kt.com/
   - name: kt-chelsea-test
     url: https://www.kt.com/
     
