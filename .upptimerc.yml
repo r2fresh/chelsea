@@ -28,8 +28,6 @@ sites:
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
   - name: kt-chelsea
     url: https://map.gis.kt.com/
-  - name: kt-chelsea-test
-    url: https://kt-chelsea.github.io
     
 notifications:
   - type: slack
