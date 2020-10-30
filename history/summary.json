@@ -5,7 +5,7 @@
     "slug": "chelsea",
     "status": "up",
     "uptime": "100.00",
-    "time": 774
+    "time": 764
   },
   {
     "name": "KTDN",
@@ -13,7 +13,7 @@
     "slug": "ktdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 822
+    "time": 807
   },
   {
     "name": "Gitlab",
@@ -29,7 +29,7 @@
     "slug": "orchestra",
     "status": "up",
     "uptime": "100.00",
-    "time": 1428
+    "time": 1469
   },
   {
     "name": "Nexus",
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "99.98",
+    "uptime": "99.96",
     "time": 267
   }
 ]
