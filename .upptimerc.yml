@@ -27,9 +27,9 @@ sites:
   - name: Reviewboard
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
   - name: kt-chelsea
-    url: https://kt-chelsea.github.io/
+    url: https://https://map.gis.kt.com/
   - name: kt-chelsea-test
-    url: https://kt-chelsea.github.io/chelsea
+    url: https://www.kt.com/
     
 notifications:
   - type: slack
