@@ -3,33 +3,33 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 707
+    "status": "up",
+    "uptime": "100.00",
+    "time": 709
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 657
+    "status": "up",
+    "uptime": "100.00",
+    "time": 661
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 815
+    "status": "up",
+    "uptime": "100.00",
+    "time": 822
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 1409
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1417
   },
   {
     "name": "Nexus",
@@ -43,15 +43,15 @@
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 516
+    "time": 519
   },
   {
     "name": "Ansible",
     "url": "http://deploy.chelsea.kt.co.kr/#/login",
     "slug": "ansible",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 613
   },
@@ -59,33 +59,33 @@
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 555
+    "time": 585
   },
   {
     "name": "Xwiki",
     "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
     "slug": "xwiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 707
+    "time": 715
   },
   {
     "name": "SonarQube",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "sonar-qube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 510
+    "time": 520
   },
   {
     "name": "Reviewboard",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "reviewboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 162
+    "time": 163
   },
   {
     "name": "kt-chelsea",
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "10.06",
+    "uptime": "10.04",
     "time": 213
   }
 ]
