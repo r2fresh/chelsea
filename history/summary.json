@@ -3,9 +3,9 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 683
+    "status": "down",
+    "uptime": "99.99",
+    "time": 661
   },
   {
     "name": "KTDN",
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "8.52",
+    "uptime": "7.83",
     "time": 206
   }
 ]
