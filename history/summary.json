@@ -75,17 +75,17 @@
     "name": "SonarQube",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "sonar-qube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 504
+    "time": 506
   },
   {
     "name": "Reviewboard",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "reviewboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 159
+    "time": 160
   },
   {
     "name": "kt-chelsea",
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "8.72",
+    "uptime": "8.65",
     "time": 206
   }
 ]
