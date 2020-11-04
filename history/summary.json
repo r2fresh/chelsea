@@ -3,17 +3,17 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 680
+    "status": "up",
+    "uptime": "100.00",
+    "time": 683
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "down",
-    "uptime": "99.98",
-    "time": 642
+    "status": "up",
+    "uptime": "100.00",
+    "time": 647
   },
   {
     "name": "Gitlab",
