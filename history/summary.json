@@ -3,73 +3,73 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 650
+    "status": "up",
+    "uptime": "100.00",
+    "time": 653
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 608
+    "status": "up",
+    "uptime": "100.00",
+    "time": 613
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 799
+    "status": "up",
+    "uptime": "100.00",
+    "time": 807
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 1354
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1355
   },
   {
     "name": "Nexus",
     "url": "http://repo.chelsea.kt.co.kr",
     "slug": "nexus",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 555
+    "status": "up",
+    "uptime": "100.00",
+    "time": 560
   },
   {
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "down",
-    "uptime": "99.98",
-    "time": 503
+    "status": "up",
+    "uptime": "100.00",
+    "time": 505
   },
   {
     "name": "Ansible",
     "url": "http://deploy.chelsea.kt.co.kr/#/login",
     "slug": "ansible",
-    "status": "down",
-    "uptime": "99.98",
-    "time": 583
+    "status": "up",
+    "uptime": "100.00",
+    "time": 589
   },
   {
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 559
+    "status": "up",
+    "uptime": "100.00",
+    "time": 566
   },
   {
     "name": "Xwiki",
     "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
     "slug": "xwiki",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 686
+    "status": "up",
+    "uptime": "100.00",
+    "time": 690
   },
   {
     "name": "SonarQube",
