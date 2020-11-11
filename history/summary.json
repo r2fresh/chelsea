@@ -11,9 +11,9 @@
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 639
+    "status": "down",
+    "uptime": "99.99",
+    "time": 625
   },
   {
     "name": "Gitlab",
@@ -43,9 +43,9 @@
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 518
+    "time": 506
   },
   {
     "name": "Ansible",
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "3.64",
+    "uptime": "3.60",
     "time": 173
   }
 ]
