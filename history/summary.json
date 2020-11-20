@@ -5,7 +5,7 @@
     "slug": "chelsea",
     "status": "up",
     "uptime": "100.00",
-    "time": 729
+    "time": 732
   },
   {
     "name": "KTDN",
@@ -13,7 +13,7 @@
     "slug": "ktdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 654
+    "time": 658
   },
   {
     "name": "Gitlab",
@@ -21,7 +21,7 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 851
+    "time": 852
   },
   {
     "name": "Orchestra",
@@ -37,7 +37,7 @@
     "slug": "nexus",
     "status": "up",
     "uptime": "100.00",
-    "time": 614
+    "time": 630
   },
   {
     "name": "Jenkins",
@@ -45,7 +45,7 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "100.00",
-    "time": 559
+    "time": 563
   },
   {
     "name": "Ansible",
@@ -53,7 +53,7 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "100.00",
-    "time": 613
+    "time": 617
   },
   {
     "name": "MatterMost",
@@ -69,7 +69,7 @@
     "slug": "xwiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 737
+    "time": 739
   },
   {
     "name": "SonarQube",
@@ -77,7 +77,7 @@
     "slug": "sonar-qube",
     "status": "down",
     "uptime": "100.00",
-    "time": 332
+    "time": 326
   },
   {
     "name": "Reviewboard",
@@ -85,7 +85,7 @@
     "slug": "reviewboard",
     "status": "down",
     "uptime": "100.00",
-    "time": 104
+    "time": 102
   },
   {
     "name": "kt-chelsea",
@@ -93,14 +93,14 @@
     "slug": "kt-chelsea",
     "status": "up",
     "uptime": "100.00",
-    "time": 823
+    "time": 828
   },
   {
     "name": "kt-chelsea-test",
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "100.00",
-    "time": 190
+    "uptime": "96.49",
+    "time": 186
   }
 ]
