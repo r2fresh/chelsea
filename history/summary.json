@@ -19,9 +19,9 @@
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "time": 878
+    "time": 884
   },
   {
     "name": "Orchestra",
