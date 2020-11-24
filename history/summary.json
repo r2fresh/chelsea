@@ -12,23 +12,23 @@
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "time": 658
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "time": 879
+    "time": 878
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "time": 1617
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://map.gis.kt.com/",
     "slug": "kt-chelsea",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.60%",
     "time": 840
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "1.14%",
+    "uptime": "1.12%",
     "time": 181
   }
 ]
