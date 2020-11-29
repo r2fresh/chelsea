@@ -4,16 +4,16 @@
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 740
+    "uptime": "99.80%",
+    "time": 739
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "up",
-    "uptime": "99.81%",
-    "time": 650
+    "uptime": "99.82%",
+    "time": 649
   },
   {
     "name": "Gitlab",
@@ -28,7 +28,7 @@
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "time": 1583
   },
   {
@@ -37,7 +37,7 @@
     "slug": "nexus",
     "status": "up",
     "uptime": "99.87%",
-    "time": 624
+    "time": 622
   },
   {
     "name": "Jenkins",
@@ -45,7 +45,7 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "99.84%",
-    "time": 574
+    "time": 576
   },
   {
     "name": "Ansible",
@@ -53,23 +53,23 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "99.84%",
-    "time": 637
+    "time": 638
   },
   {
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
     "status": "up",
-    "uptime": "99.84%",
-    "time": 569
+    "uptime": "99.85%",
+    "time": 568
   },
   {
     "name": "Xwiki",
     "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
     "slug": "xwiki",
     "status": "up",
-    "uptime": "99.84%",
-    "time": 742
+    "uptime": "99.85%",
+    "time": 743
   },
   {
     "name": "SonarQube",
@@ -77,7 +77,7 @@
     "slug": "sonar-qube",
     "status": "down",
     "uptime": "99.90%",
-    "time": 282
+    "time": 278
   },
   {
     "name": "Reviewboard",
@@ -85,22 +85,22 @@
     "slug": "reviewboard",
     "status": "down",
     "uptime": "99.90%",
-    "time": 89
+    "time": 87
   },
   {
     "name": "kt-chelsea",
     "url": "https://map.gis.kt.com/",
     "slug": "kt-chelsea",
     "status": "up",
-    "uptime": "98.78%",
-    "time": 855
+    "uptime": "98.81%",
+    "time": 860
   },
   {
     "name": "kt-chelsea-test",
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "0.97%",
-    "time": 177
+    "uptime": "0.95%",
+    "time": 176
   }
 ]
