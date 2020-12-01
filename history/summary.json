@@ -20,7 +20,7 @@
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "99.85%",
+    "uptime": "99.83%",
     "time": 872
   },
   {
@@ -59,9 +59,9 @@
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "time": 592
+    "time": 594
   },
   {
     "name": "Xwiki",
