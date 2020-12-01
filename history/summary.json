@@ -19,8 +19,8 @@
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.84%",
+    "status": "down",
+    "uptime": "99.85%",
     "time": 871
   },
   {
@@ -60,7 +60,7 @@
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "time": 580
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://map.gis.kt.com/",
     "slug": "kt-chelsea",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.90%",
     "time": 864
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://kt-chelsea.github.io",
     "slug": "kt-chelsea-test",
     "status": "down",
-    "uptime": "0.89%",
+    "uptime": "0.88%",
     "time": 176
   }
 ]
