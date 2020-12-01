@@ -19,9 +19,9 @@
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.81%",
-    "time": 872
+    "status": "up",
+    "uptime": "99.79%",
+    "time": 882
   },
   {
     "name": "Orchestra",
@@ -43,9 +43,9 @@
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "time": 578
+    "time": 581
   },
   {
     "name": "Ansible",
@@ -60,7 +60,7 @@
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
     "status": "down",
-    "uptime": "99.86%",
+    "uptime": "99.84%",
     "time": 593
   },
   {
