@@ -20,7 +20,7 @@
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "99.83%",
+    "uptime": "99.81%",
     "time": 872
   },
   {
@@ -43,9 +43,9 @@
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "time": 577
+    "time": 578
   },
   {
     "name": "Ansible",
@@ -59,9 +59,9 @@
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "time": 594
+    "time": 593
   },
   {
     "name": "Xwiki",
