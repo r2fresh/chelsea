@@ -59,9 +59,9 @@
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "down",
-    "uptime": "99.84%",
-    "time": 593
+    "status": "up",
+    "uptime": "99.82%",
+    "time": 595
   },
   {
     "name": "Xwiki",
