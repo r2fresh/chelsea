@@ -11,7 +11,7 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
     "time": 759,
-    "timeDay": 1326,
+    "timeDay": 662,
     "timeWeek": 720,
     "timeMonth": 788,
     "timeYear": 735,
@@ -33,8 +33,7 @@
       "2021-04-21": 21,
       "2021-02-27": 25,
       "2021-02-26": 35,
-      "2021-02-23": 54,
-      "2021-02-17": 26
+      "2021-02-23": 54
     }
   },
   {
@@ -43,18 +42,19 @@
     "icon": "https://favicons.githubusercontent.com/ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "down",
-    "uptime": "80.54%",
+    "uptime": "80.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.74%",
+    "uptimeYear": "74.47%",
     "time": 729,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 711,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2022-02-16": 70,
+      "2022-02-17": 61,
+      "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -157,8 +157,7 @@
       "2021-04-21": 20,
       "2021-02-27": 24,
       "2021-02-26": 34,
-      "2021-02-23": 53,
-      "2021-02-17": 26
+      "2021-02-23": 53
     }
   },
   {
@@ -173,9 +172,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.53%",
     "time": 1090,
-    "timeDay": 1537,
-    "timeWeek": 1177,
-    "timeMonth": 1241,
+    "timeDay": 1204,
+    "timeWeek": 1217,
+    "timeMonth": 1243,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2022-01-26": 24,
@@ -198,8 +197,7 @@
       "2021-03-17": 783,
       "2021-02-27": 24,
       "2021-02-26": 34,
-      "2021-02-23": 53,
-      "2021-02-17": 25
+      "2021-02-23": 53
     }
   },
   {
@@ -214,10 +212,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.75%",
     "time": 1702,
-    "timeDay": 1476,
-    "timeWeek": 1496,
-    "timeMonth": 1535,
-    "timeYear": 1647,
+    "timeDay": 1544,
+    "timeWeek": 1498,
+    "timeMonth": 1539,
+    "timeYear": 1648,
     "dailyMinutesDown": {
       "2022-02-02": 20,
       "2022-01-07": 16,
@@ -234,8 +232,7 @@
       "2021-05-20": 52,
       "2021-02-27": 24,
       "2021-02-26": 33,
-      "2021-02-23": 52,
-      "2021-02-17": 25
+      "2021-02-23": 52
     }
   },
   {
@@ -249,11 +246,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 1188,
-    "timeDay": 2159,
-    "timeWeek": 2148,
-    "timeMonth": 2249,
-    "timeYear": 1371,
+    "time": 1190,
+    "timeDay": 2300,
+    "timeWeek": 2154,
+    "timeMonth": 2255,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2022-01-26": 65,
       "2022-01-07": 15,
@@ -265,8 +262,7 @@
       "2021-05-20": 52,
       "2021-02-27": 23,
       "2021-02-26": 33,
-      "2021-02-23": 52,
-      "2021-02-17": 24
+      "2021-02-23": 52
     }
   },
   {
@@ -275,15 +271,15 @@
     "icon": "https://favicons.githubusercontent.com/build.chelsea.kt.co.kr",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 679,
-    "timeDay": 750,
-    "timeWeek": 648,
-    "timeMonth": 749,
+    "timeDay": 754,
+    "timeWeek": 661,
+    "timeMonth": 754,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2021-12-09": 277,
@@ -297,8 +293,7 @@
       "2021-05-20": 51,
       "2021-02-27": 23,
       "2021-02-26": 32,
-      "2021-02-23": 51,
-      "2021-02-17": 24
+      "2021-02-23": 51
     }
   },
   {
@@ -313,10 +308,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.82%",
     "time": 1170,
-    "timeDay": 1870,
+    "timeDay": 1532,
     "timeWeek": 1563,
-    "timeMonth": 1612,
-    "timeYear": 1339,
+    "timeMonth": 1613,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2022-01-26": 64,
       "2021-12-15": 43,
@@ -334,8 +329,7 @@
       "2021-05-20": 51,
       "2021-02-27": 22,
       "2021-02-26": 32,
-      "2021-02-23": 51,
-      "2021-02-17": 23
+      "2021-02-23": 51
     }
   },
   {
@@ -350,9 +344,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 628,
-    "timeDay": 910,
-    "timeWeek": 653,
-    "timeMonth": 586,
+    "timeDay": 656,
+    "timeWeek": 665,
+    "timeMonth": 588,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2021-12-09": 17,
@@ -363,8 +357,7 @@
       "2021-05-20": 50,
       "2021-02-27": 22,
       "2021-02-26": 31,
-      "2021-02-23": 50,
-      "2021-02-17": 23
+      "2021-02-23": 50
     }
   },
   {
@@ -373,18 +366,19 @@
     "icon": "https://favicons.githubusercontent.com/wiki.chelsea.kt.co.kr",
     "slug": "xwiki",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.21%",
+    "uptimeYear": "55.94%",
     "time": 877,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2022-02-16": 70,
+      "2022-02-17": 62,
+      "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -549,8 +543,7 @@
       "2021-05-20": 50,
       "2021-02-27": 21,
       "2021-02-26": 31,
-      "2021-02-23": 50,
-      "2021-02-17": 22
+      "2021-02-23": 50
     }
   },
   {
@@ -564,7 +557,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
+    "time": 577,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -601,8 +594,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.27%",
     "time": 1007,
-    "timeDay": 1216,
-    "timeWeek": 984,
+    "timeDay": 952,
+    "timeWeek": 982,
     "timeMonth": 980,
     "timeYear": 1007,
     "dailyMinutesDown": {
@@ -632,12 +625,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 89,
-    "timeDay": 31,
-    "timeWeek": 47,
-    "timeMonth": 59,
+    "timeDay": 26,
+    "timeWeek": 48,
+    "timeMonth": 58,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2022-02-16": 71,
+      "2022-02-17": 62,
+      "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -1000,8 +994,7 @@
       "2021-02-21": 1440,
       "2021-02-20": 1440,
       "2021-02-19": 1440,
-      "2021-02-18": 1440,
-      "2021-02-17": 1440
+      "2021-02-18": 1440
     }
   }
 ]
