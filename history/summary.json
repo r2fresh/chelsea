@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/chelsea.kt.co.kr.ico",
     "slug": "chelsea",
     "status": "down",
-    "uptime": "39.48%",
+    "uptime": "39.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 99,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -379,8 +380,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktdn.chelsea.kt.co.kr.ico",
     "slug": "ktdn",
     "status": "down",
-    "uptime": "26.70%",
+    "uptime": "26.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 99,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -763,8 +764,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -773,10 +773,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/scm.chelsea.kt.co.kr.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "39.39%",
+    "uptime": "39.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 99,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1147,8 +1148,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -1157,10 +1157,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/issue.chelsea.kt.co.kr.ico",
     "slug": "orchestra",
     "status": "down",
-    "uptime": "35.92%",
+    "uptime": "35.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 99,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1531,8 +1532,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -1541,10 +1541,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.chelsea.kt.co.kr.ico",
     "slug": "nexus",
     "status": "down",
-    "uptime": "36.14%",
+    "uptime": "36.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1552,7 +1552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 99,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1915,8 +1916,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -1925,10 +1925,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/build.chelsea.kt.co.kr.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "39.29%",
+    "uptime": "39.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1936,7 +1936,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 100,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2299,8 +2300,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -2309,10 +2309,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/deploy.chelsea.kt.co.kr.ico",
     "slug": "ansible",
     "status": "down",
-    "uptime": "43.00%",
+    "uptime": "42.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2320,7 +2320,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 100,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2683,8 +2684,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -2693,10 +2693,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.chelsea.kt.co.kr.ico",
     "slug": "matter-most",
     "status": "down",
-    "uptime": "39.50%",
+    "uptime": "39.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -2704,7 +2704,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 100,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3067,8 +3068,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -3077,10 +3077,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.chelsea.kt.co.kr.ico",
     "slug": "xwiki",
     "status": "down",
-    "uptime": "21.97%",
+    "uptime": "21.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -3088,7 +3088,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 100,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3451,8 +3452,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -3503,9 +3503,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 731,
-    "timeDay": 798,
-    "timeWeek": 788,
-    "timeMonth": 759,
+    "timeDay": 813,
+    "timeWeek": 792,
+    "timeMonth": 761,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2024-05-03": 24,
@@ -3537,15 +3537,16 @@
     "uptime": "0.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 73,
-    "timeDay": 57,
-    "timeWeek": 87,
-    "timeMonth": 101,
-    "timeYear": 74,
+    "timeDay": 63,
+    "timeWeek": 86,
+    "timeMonth": 98,
+    "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-09-30": 100,
+      "2024-10-01": 105,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3908,8 +3909,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   }
 ]
